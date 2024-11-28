@@ -25,4 +25,4 @@ streamlit
 typer
 # manually running pip install -U git+https://github.com/facebookresearch/demucs#egg=demucs
 #recommendation torch==2.5.0
-pyjwt
+#pyjwt
