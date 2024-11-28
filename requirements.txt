@@ -1,0 +1,28 @@
+tensorflow
+numpy
+soundfile 
+sounddevice 
+torch 
+torchaudio
+sentencepiece
+transformers 
+tensorflow
+tensorflow-cpu
+tensorflow-gpu
+huggingface_hub
+mysql-connector-python 
+bcrypt
+Flask 
+Flask-RESTful     
+werkzeug
+flask-restx
+requests
+demucs
+crepe
+#optional for torch 2.5.0 intel_extension_for_pytorch
+librosa  
+streamlit
+typer
+# manually running pip install -U git+https://github.com/facebookresearch/demucs#egg=demucs
+#recommendation torch==2.5.0
+pyjwt
