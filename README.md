@@ -1,1 +1,2 @@
-# Voice-Me_Vocal_Studio
+Pre Requisite
+- Virtual Env -> Python 3.11
